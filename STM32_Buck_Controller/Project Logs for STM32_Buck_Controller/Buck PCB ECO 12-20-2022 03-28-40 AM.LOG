@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VIN Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VIN Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VIN Pin=C5-2
+Removed Member From Class: ClassName=Buck Member=C3
+Removed Member From Class: ClassName=Buck Member=C4
+Removed Member From Class: ClassName=Buck Member=C5
+Added Member To Class: ClassName=Buck Member=Component R1 100 kOhms
+Added Member To Class: ClassName=Buck Member=Component R2 10 kOhms
+Added Member To Class: ClassName=Buck Member=Component R3 220 Ohms
+Added Member To Class: ClassName=Buck Member=Component R4 100 Ohms
+Added Member To Class: ClassName=Buck Member=Component R5 220 Ohms

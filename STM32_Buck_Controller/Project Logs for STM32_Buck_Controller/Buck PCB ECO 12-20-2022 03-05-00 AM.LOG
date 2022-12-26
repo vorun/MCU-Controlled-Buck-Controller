@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_FB Pin=R1-1
+Removed Pin From Net: NetName=VOUT Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=V_FB Pin=R2-2
+Added Member To Class: ClassName=Buck Member=Component R3 220 Ohms
+Added Member To Class: ClassName=Buck Member=Component R4 100 Ohms
+Added Member To Class: ClassName=Buck Member=Component R5 220 Ohms

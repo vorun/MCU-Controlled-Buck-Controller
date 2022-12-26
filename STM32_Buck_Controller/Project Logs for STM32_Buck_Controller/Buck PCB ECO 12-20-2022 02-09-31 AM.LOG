@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VIN Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=12V Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-4
+Removed Member From Class: ClassName=Buck Member=IC1

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=V_FB Pin=R1-1
+Removed Pin From Net: NetName=VOUT Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=V_FB Pin=R2-2
+Removed Pin From Net: NetName=STM_32_INPUT Pin=R3-1
+Removed Pin From Net: NetName=GATE_DRIVE_HIN Pin=R4-2
+Removed Pin From Net: NetName=GATE_DRIVE_HO Pin=R5-2
+Removed Member From Class: ClassName=Buck Member=R1
+Removed Member From Class: ClassName=Buck Member=R2
+Removed Member From Class: ClassName=Buck Member=R3
+Removed Member From Class: ClassName=Buck Member=R4
+Removed Member From Class: ClassName=Buck Member=R5
+Added Member To Class: ClassName=Buck Member=Component J1 1935161
+Added Member To Class: ClassName=Buck Member=Component J2 1935161
